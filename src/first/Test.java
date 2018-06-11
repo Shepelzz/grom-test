@@ -1,4 +1,4 @@
-package Third;
+package first;
 
 public class Test {
 }
